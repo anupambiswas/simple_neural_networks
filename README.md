@@ -1,3 +1,6 @@
+Simple neural networks
+======================
+
 trivial_nn.py:
 This is a simple python implementation of neural network for learning purposes.
 
